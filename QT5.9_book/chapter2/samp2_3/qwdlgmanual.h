@@ -1,4 +1,4 @@
-#ifndef QWDLGMANUAL_H
+﻿#ifndef QWDLGMANUAL_H
 #define QWDLGMANUAL_H
 
 #include <QDialog>
